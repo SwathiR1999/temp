@@ -1,0 +1,6 @@
+model_urls = {
+    "vit_b_16": "https://download.pytorch.org/models/vit_b_16-c867db91.pth",
+    "vit_b_32": "https://download.pytorch.org/models/vit_b_32-d86f8d99.pth",
+    "vit_l_16": "https://download.pytorch.org/models/vit_l_16-852ce7e3.pth",
+    "vit_l_32": "https://download.pytorch.org/models/vit_l_32-c7638314.pth",
+}
